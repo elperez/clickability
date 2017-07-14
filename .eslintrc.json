@@ -10,7 +10,6 @@
       "jsx": true
     }
   },
-  "installedESLint": true,
   "env": {
     "browser": true
   },
